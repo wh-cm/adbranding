@@ -1,0 +1,90 @@
+{
+  "four": [
+    {
+      "height": "19%",
+      "left": "24%",
+      "right": "",
+      "position": "absolute",
+      "top": "4%",
+      "width": "52%"
+    },
+    {
+      "height": "19%",
+      "left": "24%",
+      "right": "",
+      "position": "absolute",
+      "top": "24%",
+      "width": "52%"
+    },
+    {
+      "height": "19%",
+      "left": "24%",
+      "right": "",
+      "position": "absolute",
+      "top": "44%",
+      "width": "52%"
+    },
+    {
+      "height": "19%",
+      "left": "24%",
+      "right": "",
+      "position": "absolute",
+      "top": "64%",
+      "width": "52%"
+    }
+  ],
+  "three": [
+    {
+      "height": "19%",
+      "left": "24%",
+      "right": "",
+      "position": "absolute",
+      "top": "11%",
+      "width": "52%"
+    },
+    {
+      "height": "19%",
+      "left": "24%",
+      "right": "",
+      "position": "absolute",
+      "top": "32%",
+      "width": "52%"
+    },
+    {
+      "height": "19%",
+      "left": "24%",
+      "right": "",
+      "position": "absolute",
+      "top": "53%",
+      "width": "52%"
+    }
+  ],
+  "two": [
+    {
+      "height": "22%",
+      "left": "24%",
+      "right": "",
+      "position": "absolute",
+      "top": "26%",
+      "width": "52%"
+    },
+    {
+      "height": "22%",
+      "left": "24%",
+      "right": "",
+      "position": "absolute",
+      "top": "50%",
+      "width": "52%"
+    }
+  ],
+  "one": [
+    {
+      "height": "24%",
+      "left": "20%",
+      "right": "",
+      "position": "absolute",
+      "top": "30%",
+      "width": "60%"
+    }
+  ]
+}
