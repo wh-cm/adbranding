@@ -13,19 +13,7 @@
 }
 
 ,
-{
-"_comment":"stahl",
-"image":"https://cache.willhaben.at/mmo/1/128/398/5031_780858394.jpg",
-"price":40000,
-"target":"https://www.willhaben.at/iad/object?adId=1283985031",
-"title":"VW GOLF PV5 71,2kWh Earth Plus",
-"km":"76.304km",
-"ez":"02/2022",
-"ps":"265 PS",
-"highlights":"HD Matrix Scheinwerfer, Sportfahrwerk, Virtual Cockpit"
-}
 
-  ,
 {
 "_comment":"kuchl",
 "image":"https://cache.willhaben.at/mmo/8/112/316/9598_-106827067.jpg",
@@ -34,9 +22,8 @@
 "title":"Skoda Fabia Ambition",
 "km":"123.799km",
 "ez":"01/2016",
-  "ps":"75 PS",
+"ps":"75 PS",
 "highlights":"Parksensoren hinten, neue Bremsen, Klimaservice NEU"
 }
-,
   
 ]}
