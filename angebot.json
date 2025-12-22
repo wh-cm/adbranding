@@ -11,7 +11,6 @@
 "ps":"265 PS",
 "highlights":"S-Line Sportpaket, Komfort-Standklimatisierung, Individuallackierung,..."
 }
-
 ,
 
 {
@@ -25,5 +24,18 @@
 "ps":"75 PS",
 "highlights":"Parksensoren hinten, neue Bremsen, Klimaservice NEU"
 }
+,
   
+{
+"_comment":"alpbachtal",
+"image":"https://cache.willhaben.at/mmo/0/124/998/5280_1327500491.jpg",
+"price":29990,
+"target":"https://www.willhaben.at/iad/object?adId=1249985280",
+"title":"Peugeot 5008 GT Blue HDI 130 EAT 8",
+"km":"101.000 km",
+"ez":"07/2021",
+"ps":"131 PS",
+"highlights":"7-Sitzer, Dekoreinlagen in Alcantara, Drive-Assist-Paket Plus, Subwoofer,..."
+}
+
 ]}
