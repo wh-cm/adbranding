@@ -3,7 +3,7 @@
 {
 "_comment":"fuchsberger",
 "image":"https://cache.willhaben.at/mmo/8/160/969/9188_-2032867098.jpg",
-"price":44998,
+"price":28900,
 "target":"https://www.willhaben.at/iad/object?adId=1609699188",
 "title":"Audi A4 40 TDI Quattro S-Tronic Sport",
 "km":"75.000 km",
@@ -36,6 +36,19 @@
 "ez":"07/2021",
 "ps":"131 PS",
 "highlights":"7-Sitzer, Dekoreinlagen in Alcantara, Drive-Assist-Paket Plus, Subwoofer,..."
+}
+,
+  
+{
+"_comment":"motorbaer",
+"image":"https://cache.willhaben.at/mmo/0/173/797/9760_1804264755.jpg",
+"price":9990,
+"target":"https://www.willhaben.at/iad/object?adId=1737979760",
+"title":"CF-Moto 800MT X-Comfort",
+"km":"0 km",
+"ez":"Neufahrzeug",
+"ps":"91 PS",
+"highlights":"Kurven-ABS, Apple Car-Play, Traktionskontrolle, 4 Fahrmodi,..."
 }
 
 ]}
