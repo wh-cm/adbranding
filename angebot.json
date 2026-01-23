@@ -63,7 +63,6 @@
 "ps":"177 PS",
 "highlights":"AMG-Styling, 4MATIC-Allradantrieb, Park-Pilot, elektr. Panorama-Schiebedach,..."
 }
-
 ,
     
 {
@@ -77,7 +76,6 @@
 "ps":"95 PS",
 "highlights":"Verkehrszeichenerkennung, Anhängekpplung-Vorbereitung, Bremsassistent, Berganfahrhilfe, Müdigkeitserkennung uvm"
 }
-
 ,
     
 {
@@ -91,7 +89,6 @@
 "ps":"204 PS",
 "highlights":"Sitzheizung vorne, Fahrassistenz-Paket, Tempomat, Sitze vorne elektrisch einstellbar"
 }
-
 ,
     
 {
@@ -105,7 +102,6 @@
 "ps":"165 PS",
 "highlights":"Klimaautomatik, Heckscheibe beheizbar, Soundsystem, getönte Verglasung"
 }
-
 ,
     
 {
@@ -118,6 +114,19 @@
 "ez":"09/2023",
 "ps":"111 PS",
 "highlights":"Schaltautomat, Tagfahrlicht LED, Launchcontrol, Kurven-ABS"
+}
+,
+    
+{
+"_comment":"dosenbergerrum",
+"image":"https://cache.willhaben.at/mmo/2/208/659/6262_-1066149208.jpg",
+"price":44990,
+"target":"https://www.willhaben.at/iad/object?adId=2086596262",
+"title":"Renault Espace Esprit Alpine E-Tech Full Hybrid 200",
+"km":"8.500 km",
+"ez":"04/2025",
+"ps":"131 PS",
+"highlights":"Navigationssystem, Elektr. Sitze, Sitzheizung, Panoramadach"
 }
   
 ]}
