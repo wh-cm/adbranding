@@ -323,4 +323,18 @@
 "highlights":"Parkensor hinten, LED-Tagfahrlicht, Müdigkeitswarner,..."
 }
 
+        ,
+
+    {
+"_comment":"gwzentrum Tirol",
+"image":"https://cache.willhaben.at/mmo/8/153/307/1768_636972355.jpg",
+"price":43990,
+"target":"https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-55-tfsie-quattro-s-line-blackoptik-ambiente-1533071768/",
+"title":"Audi A6 55 TFSIe Quattro S-Line",
+"km":"59.000 km",
+"ez":"05/2021",
+"ps":"367 PS",
+"highlights":"Tempomat, Verkehrszeichenkontrolle, LED-Scheinwerfer,..."
+}
+
 ]}
