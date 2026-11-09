@@ -80,14 +80,14 @@
     
 {
 "_comment":"millenium",
-"image":"https://cache.willhaben.at/mmo/0/122/736/3210_-1835999374.jpg",
-"price":20500,
-"target":"https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x1-xdrive18d-m-sport-aut-aktion-bei-finanzierun-1227363210/",
-"title":"BMW X1 xDrive18d M Sport Aut.",
-"km":"138.000 km",
-"ez":"10/2017",
-"ps":"150 PS",
-"highlights":"Navigationssystem, Rückfahrkamera, Sportsitze vorne, LED-Scheinwerfer,..."
+"image":"https://cache.willhaben.at/mmo/6/169/084/4676_396977521.jpg",
+"price":39490,
+"target":"https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x5-xdrive-30d-m-sport-aut-mit-der-seltenen-7-si-1690844676/",
+"title":"BMW X5 xDrive 30d M Sport Aut.",
+"km":"125.000 km",
+"ez":"11/2017",
+"ps":"258 PS",
+"highlights":"Rückfahrkamera, Panoramaglasdach, Sitzheizung vorne, LED-Scheinwerfer, uvm.,..."
 }
 ,
     
@@ -159,28 +159,28 @@
   
   {
 "_comment":"cardos",
-"image":"https://cache.willhaben.at/mmo/9/814/887/959_-1107297077.jpg",
-"price":32890,
-"target":"https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-sb-30-tdi-advanced-814887959/",
-"title":"Audi A5 SB 30 TDI advanced",
-"km":"127.100 km",
-"ez":"10/2021",
-"ps":"136 PS",
-"highlights":"LED-Scheinwerfer, Sitzheizung vorne und hinten, Virtualcockpit und Navigation,..."
+"image":"https://cache.willhaben.at/mmo/3/948/342/213_502227785.jpg",
+"price":29890,
+"target":"https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-318d-48-v-touring-aut-948342213/",
+"title":"BMW 3er-Reihe 318d 48 V Touring Aut.",
+"km":"182.100 km",
+"ez":"02/2023",
+"ps":"150 PS",
+"highlights":"Tempomat, LED-Scheinwerfer, Navigationssystem, Müdigkeitswarnsystem, uvm,..."
 }
 
 ,
   
   {
 "_comment":"lucars",
-"image":"https://cache.willhaben.at/mmo/4/124/170/8524_588306073.jpg",
-"price":26790,
-"target":"https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-glc-klasse-glc-300-e-phev-4matic-aut-pano-led-rfkamera-fa-1241708524/",
-"title":"Mercedes-Benz GLC-Klasse GLC 300",
-"km":"182.000 km",
-"ez":"03/2021",
-"ps":"211 PS",
-"highlights":"Panoramadach, LED-Scheinwerfer, Rückfahrkamera, Navigationssystem,..."
+"image":"https://cache.willhaben.at/mmo/7/159/701/1297_-1868922352.jpg",
+"price":18990,
+"target":"https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-4er-reihe-430d-gran-xdrive-m-sport-aut-ahk-head-up-leder-1597011297/",
+"title":"BMW 4er-Reihe 430d Gran xDrive M Sport Aut. ",
+"km":"239.000km",
+"ez":"12/2016",
+"ps":"258 PS",
+"highlights":"Sitzheizung vorne, Navigationssystem, Park-Distance-Control vorne und hinten, uvm.,.."
 }
 
 ,
@@ -244,7 +244,7 @@
   {
 "_comment":"guenther",
 "image":"https://cache.willhaben.at/mmo/6/953/347/056_-588327521.jpg",
-"price":28489,
+"price":26989,
 "target":"https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-2008-benzin-130-gt-eat8-953347056/",
 "title":"Peugeot 2008 Benzin 130 GT",
 "km":"14.039 km",
@@ -286,7 +286,7 @@
     {
 "_comment":"kcautomobil",
 "image":"https://cache.willhaben.at/mmo/9/186/559/9129_1697675668.jpg",
-"price":21777,
+"price":21677,
 "target":"https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-118d-aut-1865599129/",
 "title":"BMW 1er-Reihe 118d Aut. Limousine",
 "km":"46.600 km",
